@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad - ESCRIDO</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Política de Privacidad — ESCRIDO</h1>
+    <p><strong>Última actualización:</strong> 2025</p>
+
+    <p>La presente Política de Privacidad describe cómo se maneja la información dentro de la aplicación <strong>ESCRIDO</strong>, desarrollada por Esau.</p>
+
+    <h2>1. Información que NO recopilamos</h2>
+    <p>ESCRIDO no recopila, almacena ni comparte información personal. No solicitamos nombre, correo electrónico, ubicación, contactos ni ningún tipo de dato identificable.</p>
+
+    <h2>2. Servicios de terceros</h2>
+    <p>Utilizamos <strong>Google AdMob</strong> para mostrar anuncios. AdMob puede recopilar información técnica no personal, como el identificador de publicidad del dispositivo o interacciones con anuncios.</p>
+    <p>Consulta las políticas de Google:</p>
+    <ul>
+        <li><a href="https://policies.google.com/privacy" target="_blank">Política de privacidad de Google</a></li>
+        <li><a href="https://policies.google.com/technologies/ads" target="_blank">Política de anuncios de Google</a></li>
+    </ul>
+
+    <h2>3. Permisos</h2>
+    <p>La aplicación solo usa permisos esenciales como acceso a Internet para cargar anuncios.</p>
+
+    <h2>4. Seguridad de los datos</h2>
+    <p>No almacenamos datos personales. Los datos gestionados por terceros se tratan según sus propias políticas.</p>
+
+    <h2>5. Público objetivo</h2>
+    <p>ESCRIDO está dirigido a usuarios mayores de 13 años.</p>
+
+    <h2>6. Cambios</h2>
+    <p>Podemos actualizar esta política ocasionalmente. La fecha de actualización aparecerá arriba.</p>
+
+    <h2>7. Contacto</h2>
+    <p>Si tienes dudas, puedes escribir a: <strong>esau.app.dev@gmail.com</strong></p>
+</div>
+</body>
+</html>
